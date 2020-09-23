@@ -2,9 +2,6 @@
 
 I'm typing stuff which does things.
 
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lfuelling&show_icons=true" /></a>
-<a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfuelling&langs_count=8&layout=compact" /></a>
-
 If you can't find a specific project here that you know I made, maybe take a look at [my personal git](https://git.lrk.sh/lerk).
 
 ## My favourite stuff
