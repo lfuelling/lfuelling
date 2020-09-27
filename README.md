@@ -19,7 +19,7 @@ If you can't find a specific project here that you know I made, maybe take a loo
 
 I also made a few plugins for the [FiveM](https://fivem.net/)/[ESX](https://github.com/topics/esx) ecosystem:
 - [esx_repill](https://github.com/lfuelling/esx_redpill)
-  - A hacking minigame for FiveM (not necessariily multiplayer)
+  - A hacking minigame for FiveM (not necessarily multiplayer)
 - [esx_nicedeath](https://github.com/lfuelling/esx_nicedeath)
   - Plugin that adds a stock-like death effect to FiveM
 - [esx_drugfarms](https://github.com/lfuelling/esx_drugfarms)
