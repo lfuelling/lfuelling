@@ -1,5 +1,3 @@
-<script>alert(1);</script>
-
 # Henlo, I'm Lerk 👋
 
 I'm typing stuff which does things.
