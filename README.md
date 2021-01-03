@@ -16,6 +16,8 @@ If you can't find a specific project here that you know I made, maybe take a loo
   - The theme for my ghost-based [blog](https://lerks.blog)
 - 📁  [lfuelling/lrkFM](https://github.com/lfuelling/lrkFM)
   - A file manager app for Android that can also handle archives
+- 📰 [lfuelling/reed](https://github.com/lfuelling/reed)
+  - A lightweight feed reader for macOS
 
 I also made a few plugins for the [FiveM](https://fivem.net/)/[ESX](https://github.com/topics/esx) ecosystem:
 - [esx_repill](https://github.com/lfuelling/esx_redpill)
