@@ -8,8 +8,8 @@ If you can't find a specific project here that you know I made, maybe take a loo
 
 - 💾  [gtasa-savegame-editor/gtasa-savegame-editor](https://github.com/gtasa-savegame-editor/gtasa-savegame-editor)
   - GUI Tool to edit GTA: San Andreas savegames
-- 🐘  [comm-network/mastodon](https://github.com/comm-network/mastodon)
-  - The most borked version of [Mastodon](https://github.com/tootsuite/mastodon) runnning on [comm.network](https://comm.network)
+- 🎛 [lfuelling/wallOS](https://github.com/lfuelling/wallOS)
+  - Firmware for an ESP32 wall panel
 - 🌘  [lfuelling/ntGogs](https://github.com/lfuelling/ntGogs)
   - A night-themed version of [gogs/gogs](https://github.com/gogs/gogs)
 - 🖌  [lfuelling/ghost-theme-lerk](https://github.com/lfuelling/ghost-theme-lerk)
