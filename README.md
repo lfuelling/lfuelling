@@ -20,6 +20,8 @@ If you can't find a specific project here that you know I made, maybe take a loo
   - A lightweight feed reader for macOS
 - 🗡 [lfuelling/soultraps](https://github.com/lfuelling/soultraps)
   - An RPG written using Greenfoot
+- 🪐 [lfuelling/pds-viewer](https://github.com/lfuelling/pds-viewer)
+  - A frontend for the Planetary Data System by NASA JPL
 
 I also made a few plugins for the [FiveM](https://fivem.net/)/[ESX](https://github.com/topics/esx) ecosystem:
 - [esx_repill](https://github.com/lfuelling/esx_redpill)
