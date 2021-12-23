@@ -8,20 +8,16 @@ If you can't find a specific project here that you know I made, maybe take a loo
 
 - 💾  [gtasa-savegame-editor/gtasa-savegame-editor](https://github.com/gtasa-savegame-editor/gtasa-savegame-editor)
   - GUI Tool to edit GTA: San Andreas savegames
-- 🎛 [lfuelling/wallOS](https://github.com/lfuelling/wallOS)
+- 🎛 [lfuelling/wallOS](https://git.lrk.sh/lerk/wallOS)
   - Firmware for an ESP32 wall panel
-- 🌘  [lfuelling/ntGogs](https://github.com/lfuelling/ntGogs)
-  - A night-themed version of [gogs/gogs](https://github.com/gogs/gogs)
 - 📁  [lfuelling/lrkFM](https://github.com/lfuelling/lrkFM)
   - A file manager app for Android that can also handle archives
-- 🗞 [lfuelling/reed](https://github.com/lfuelling/reed)
+- 🗞 [lfuelling/reed](https://git.lrk.sh/lerk/reed)
   - A lightweight feed reader for macOS
 - 🗡 [lfuelling/soultraps](https://github.com/lfuelling/soultraps)
   - An RPG written using Greenfoot
-- 🪐 [lfuelling/pds-viewer](https://github.com/lfuelling/pds-viewer)
+- 🪐 [lfuelling/pds-viewer](https://git.lrk.sh/lerk/pds-viewer)
   - A frontend for the Planetary Data System by NASA JPL
-- 🙀 [meowBlog/meowBlog](https://github.com/meowBlog/meowBlog)
-  - A blogging platform I'm currently building 
 
 I also made a few plugins for the [FiveM](https://fivem.net/)/[ESX](https://github.com/topics/esx) ecosystem:
 - [esx_repill](https://github.com/lfuelling/esx_redpill)
