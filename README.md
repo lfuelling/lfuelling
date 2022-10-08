@@ -1,9 +1,3 @@
-# Henlo, I'm Lerk 👋
-
-I'm typing stuff which does things.
-
-If you can't find a specific project here that you know I made, maybe take a look at [my personal git](https://git.lrk.sh/lerk).
-
 ## My favourite stuff
 
 - 💾  [gtasa-savegame-editor/gtasa-savegame-editor](https://github.com/gtasa-savegame-editor/gtasa-savegame-editor)
